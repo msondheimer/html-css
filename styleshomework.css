@@ -1,8 +1,7 @@
 h1 {color: white;
-	
-	font-family: 'Arial';
 	margin-top: 20px;
 	margin-bottom: 20px;
+	font-family: 'Arial';
 	padding: 20px;
 	background: #0000A0;}
 
@@ -14,14 +13,14 @@ p { font-size: 16px;
 	font-family: Arial ;
 	border-bottom: solid grey;}
 
-#book { background: pink;}
+#book {background: pink;}
 
 .numlist {padding-left: 0px;}
 
 .boxedlist {border: 1px solid blue;}
 
-.a {padding-left: 5px;
-	list-style-position: inside;
+.bulletpoints {padding-left: 5px;
+ 	list-style-position: inside;
 	margin-top: 20px;
 	margin-bottom: 20px;}
 
